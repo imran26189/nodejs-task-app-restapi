@@ -10,7 +10,7 @@ This README would normally document whatever steps are necessary to get your app
 * Version test
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+### How do I get set up the following? ###
 
 * Summary of set up
 * Configuration
