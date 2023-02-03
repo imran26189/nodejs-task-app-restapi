@@ -12,7 +12,7 @@
     "Task",
     "App"
   ],
-  "author": "Hardev Sharma",
+  "author": "Sharma Vikas",
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^6.4.0",

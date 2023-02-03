@@ -10,7 +10,7 @@ const id = new ObjectId();
 
 MongoClient.connect(connectionURI, {useNewUrlParser:true}, (error, client) => {
     if(error){
-        return console.log("Error establishing connection...");
+        return console.log("Error establishing valid connection...");
     }
 
     const db = client.db(database);
